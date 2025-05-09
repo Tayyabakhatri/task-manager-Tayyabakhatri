@@ -1,5 +1,5 @@
 import React from "react";
-import Pic from "../assets/istockphoto-847156808-612x612.jpg";
+
 
 const Home = () => {
   return (
